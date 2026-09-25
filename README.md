@@ -6,7 +6,7 @@ Published with GitHub Pages at https://ragunauth123456-maker.github.io/prismbay-
 
 The static site has no tracker, external script, checkout credentials or backend. Articles, navigation, mobile layout, local privacy page and sitemap are committed together. Third-party products and later advertisements require explicit commercial disclosure.
 
-Monetization order: original free lessons and YouTube promotion, optional paid PrismBay blueprints through existing Stripe links, separately labeled PrismBay Clean cross-promotion and relevant brand inquiries. Google AdSense for this website requires a verified owned domain and a successful application. Do not invent an AdSense publisher identifier, submit an unowned domain, use an overseas host as evidence of residency or use a VPN to evade program eligibility.
+Monetization order: original free lessons and YouTube promotion, voluntary creator support through the existing active Studysmartz LLC Stripe payment link (confirmed active on September 24, 2026), optional paid PrismBay blueprints through existing source-defined Stripe links, separately labeled PrismBay Clean cross-promotion and relevant brand inquiries. These are business payments, not charitable donations. No completed sales have been independently verified. Google AdSense for this website requires a verified owned domain and a successful application. Do not invent an AdSense publisher identifier, submit an unowned domain, use an overseas host as evidence of residency or use a VPN to evade program eligibility.
 
 Custom domain option: set learn.prismbayai.com as the Pages custom domain only after verifying ownership and configuring the corresponding DNS CNAME with the domain provider. Update canonical URLs, sitemap and privacy links together.
 
